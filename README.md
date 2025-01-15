@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Malindi Chathumini</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
+<p align="center">
+  <img alt="Coder GIF" height="400" width="600" src="df8mdg9-571f828e-4658-4524-a161-3e69e6ffd7d9.gif" />
+</p>
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malindichathumini&label=Profile%20views&color=0e75b6&style=flat" alt="malindichathumini" /> </p>
 
 <p align="left"> <a href="https://twitter.com/https://x.com/malindi2001" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/malindi2001?logo=twitter&style=for-the-badge" alt="https://x.com/malindi2001" /></a> </p>
